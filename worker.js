@@ -1,5 +1,5 @@
 const POSTS_URL = "https://raw.githubusercontent.com/mehrzant/roshnaie-cherag-web/main/posts.json";
-const LOGO_URL = "https://raw.githubusercontent.com/mehrzant/roshnaie-cherag-web/main/logo.png";
+const LOGO_URL = "https://raw.githubusercontent.com/mehrzant/roshnaie-cherag-web/main/chirag_logo.png";
 
 const HTML_PAGE = `<!DOCTYPE html>
 <html lang="fa" dir="rtl">
